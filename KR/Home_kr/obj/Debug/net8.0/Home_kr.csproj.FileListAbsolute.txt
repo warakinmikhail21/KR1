@@ -1,0 +1,15 @@
+E:\School\Homework_KR\Home_kr\bin\Debug\net8.0\Home_kr.exe
+E:\School\Homework_KR\Home_kr\bin\Debug\net8.0\Home_kr.deps.json
+E:\School\Homework_KR\Home_kr\bin\Debug\net8.0\Home_kr.runtimeconfig.json
+E:\School\Homework_KR\Home_kr\bin\Debug\net8.0\Home_kr.dll
+E:\School\Homework_KR\Home_kr\bin\Debug\net8.0\Home_kr.pdb
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\Home_kr.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\Home_kr.AssemblyInfoInputs.cache
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\Home_kr.AssemblyInfo.cs
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\Home_kr.csproj.CoreCompileInputs.cache
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\Home_kr.sourcelink.json
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\Home_kr.dll
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\refint\Home_kr.dll
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\Home_kr.pdb
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\Home_kr.genruntimeconfig.cache
+E:\School\Homework_KR\Home_kr\obj\Debug\net8.0\ref\Home_kr.dll
